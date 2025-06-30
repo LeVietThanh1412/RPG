@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - BackGround
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2806377907
+    locked: 0
+  - name: FoceGround
+    uniqueID: 1346153233
+    locked: 0
+  - name: WalkInFront
+    uniqueID: 379809177
+    locked: 0
+  - name: Collision
+    uniqueID: 1182189775
+    locked: 0
+  - name: Player
+    uniqueID: 2744887539
+    locked: 0
+  - name: WalkInBehigh
+    uniqueID: 1104787
+    locked: 0
+  - name: Decoration
+    uniqueID: 369513315
+    locked: 0
+  m_RenderingLayers:
+  - Default
