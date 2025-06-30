@@ -292,4 +292,6 @@ Nếu gặp vấn đề, hãy:
 
 **Được phát triển với ❤️ bởi Lê Thành**
 
+**Asset game lấy của https://emanuelledev.itch.io/farm-rpg (Bản free)**
+
 *Framework này được thiết kế để giúp người Việt Nam mới học Unity có thể tạo ra game 2D RPG một cách dễ dàng và hiệu quả.*
