@@ -277,6 +277,7 @@ Nếu gặp vấn đề, hãy:
 2. **Chạy Ultimate Console Fix** trước khi báo lỗi
 3. **Kiểm tra Troubleshooting** ở trên
 4. **Đọc kỹ hướng dẫn** setup từng bước
+5. **Hãy tìm đọc tài liệu Unity or tham gia hội nhóm hỗ trợ**
 
 ---
 ## 📝 Ghi chú phiên bản
